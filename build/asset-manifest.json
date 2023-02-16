@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.7a4a2397.js",
+    "static/media/Participant 2_legend.jpg": "/static/media/Participant 2_legend.cc775ffae7ee000d6f8f.jpg",
+    "static/media/Participant 1_legend.jpg": "/static/media/Participant 1_legend.66df82525d37273c29a2.jpg",
+    "static/media/Participant 8_legend.jpg": "/static/media/Participant 8_legend.091085b6dd01b8284e0c.jpg",
+    "static/media/Participant 6_legend.jpg": "/static/media/Participant 6_legend.51ff930ab2dcb86f956f.jpg",
+    "static/media/Participant 4_legend.jpg": "/static/media/Participant 4_legend.8b5694dfb906eda1313e.jpg",
+    "static/media/Participant 5_legend.jpg": "/static/media/Participant 5_legend.91b1ea182c1864d97b78.jpg",
+    "static/media/Participant 9_legend.jpg": "/static/media/Participant 9_legend.c6d3260ff567c36ba8d5.jpg",
+    "static/media/Participant 7_legend.jpg": "/static/media/Participant 7_legend.67445025aae05edb4c23.jpg",
+    "static/media/Participant 10_legend.jpg": "/static/media/Participant 10_legend.140e4c49c0b06a7002f2.jpg",
+    "static/media/Participant 3_legend.jpg": "/static/media/Participant 3_legend.b9677365f03c62b28ec6.jpg",
+    "static/media/Participant 7_blank.jpg": "/static/media/Participant 7_blank.aae2fd8a9b6bb2a63ac0.jpg",
+    "static/media/Participant 2_blank.jpg": "/static/media/Participant 2_blank.20e06bc3f7b565c2a11a.jpg",
+    "static/media/Participant 5_blank.jpg": "/static/media/Participant 5_blank.5ac01111eb1df8b8db84.jpg",
+    "static/media/Participant 6_blank.jpg": "/static/media/Participant 6_blank.80fc6a8fd8e218be6296.jpg",
+    "static/media/Participant 4_blank.jpg": "/static/media/Participant 4_blank.9258241735ccc5bd4e65.jpg",
+    "static/media/Participant 1_blank.jpg": "/static/media/Participant 1_blank.71f91816068c28c1c8be.jpg",
+    "static/media/Participant 8_blank.jpg": "/static/media/Participant 8_blank.932368b0595ea4043c50.jpg",
+    "static/media/Participant 3_blank.jpg": "/static/media/Participant 3_blank.02a587154214a62e0f0f.jpg",
+    "static/media/Participant 9_blank.jpg": "/static/media/Participant 9_blank.25ac0222134264b6fce9.jpg",
+    "static/media/Participant 10_blank.jpg": "/static/media/Participant 10_blank.4eac46e30d4f4ed69a25.jpg",
+    "index.html": "/index.html",
+    "main.7a4a2397.js.map": "/static/js/main.7a4a2397.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7a4a2397.js"
+  ]
+}

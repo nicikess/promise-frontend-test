@@ -14,7 +14,7 @@ import MenuItem from '@mui/material/MenuItem';
 import {Link} from "react-router-dom"
 import CssBaseline from '@mui/material/CssBaseline';
 
-const pages = ['Overview', 'Expertise', 'Tools'];
+const pages = ['Overview','Tools','Expertise'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 function ResponsiveAppBar() {
